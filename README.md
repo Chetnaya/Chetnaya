@@ -12,7 +12,6 @@
 - 🌱 Currently working on some personal and internship projects on Unity, C#
 - 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1_5VTZt3v4TGHgFOQjJJ16NWabUUR6X5u/view?usp=sharing">Resume</a>
 - 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm also a freelance Graphic Designer & Illustrator
 
 <div align="center">
