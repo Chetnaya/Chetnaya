@@ -10,7 +10,7 @@
 
 - 🔭 An aspiring Game developer with an experience of over 1 year
 - 🌱 Currently working on some personal and internship projects on Unity, C#
-- 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1_5VTZt3v4TGHgFOQjJJ16NWabUUR6X5u/view?usp=sharing">Resume</a>
+- 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1Y_RMB-Tc_6s38ciLOr0QdhQ7tcn42YOs/view?usp=sharing">Resume</a>
 - 📫 How to reach me: Contact part
 - ⚡ Fun fact: I'm also a freelance Graphic Designer & Illustrator
 
