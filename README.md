@@ -13,6 +13,9 @@
 - 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1Y_RMB-Tc_6s38ciLOr0QdhQ7tcn42YOs/view?usp=sharing">Resume</a>
 - 📫 How to reach me: Contact part
 - ⚡ Fun fact: I'm also a freelance Graphic Designer & Illustrator
+- 👾 Check out my games on : <a target="_blank" href="https://chetnaya.itch.io/">Chetnaya Kalyan</a>
+- 👯 Always happy to collaborate with other devs :))
+
 
 <div align="center">
     <picture align="center">
@@ -21,28 +24,33 @@
     </picture>
 </div>
 
-<!-- <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me 🤝 </h3> -->
+
 <div align="center">
 <h3>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin: 10px;">Connect with me 🤝 
 </h3>
- </div>
-
-<!-- <h3 style="margin: 10 auto;">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin: 10px;">Connect with me 🤝 
-</h3> -->
-
-
-<p align="center">
-<br>	
 <a target="_blank" href="https://www.linkedin.com/in/chetnaya-kalyan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:chetnaya.kalyan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</img></a>
-<br>
-</p>
+</div>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetnaya/Chetnaya/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetnaya/Chetnaya/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+ </div>
+ 
+ <!-- ________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________-->
+<details align="center">
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+
+Current Project: <a href="https://github.com/Chetnaya/Eyes-Wide-Shut">Eyes Wide Shut.</a>
+</samp>
+</details>
+ 
