@@ -15,31 +15,6 @@
 - ⚡ Fun fact: I'm also a freelance Graphic Designer & Illustrator
 - 👾 Check out my games on : <a target="_blank" href="https://chetnaya.itch.io/">Chetnaya Kalyan</a>
 - 👯 Always happy to collaborate with other devs :))
-
-
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div>
-
-
-<div align="center">
-<h3>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin: 10px;">Connect with me 🤝 
-</h3>
-<a target="_blank" href="https://www.linkedin.com/in/chetnaya-kalyan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:chetnaya.kalyan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetnaya/Chetnaya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetnaya/Chetnaya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
- </div>
  
  <!-- ________________________________________________________________________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
@@ -53,4 +28,26 @@ ________________________________________________________________________________
 Current Project: <a href="https://github.com/Chetnaya/Eyes-Wide-Shut">Eyes Wide Shut.</a>
 </samp>
 </details>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Chetnaya&count_private=true&show_icons=true&theme=dracula&hide=issues,prs"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chetnaya&theme=dracula&langs_count=3"></td>
+  </tr>
+</table>
+
+<div align="center">
+<h3>Connect with Me 
+</h3>
+<a target="_blank" href="https://www.linkedin.com/in/chetnaya-kalyan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:chetnaya.kalyan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetnaya/Chetnaya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetnaya/Chetnaya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+ </div>
  
