@@ -8,12 +8,12 @@
   <img src="https://img.shields.io/badge/Focus-Game%20Development-dodgerblue" />
 </p>
 
-- 🔭 An aspiring Game developer with an experience of over 1 year
-- 🌱 Currently working on some personal and internship projects on Unity, C#
+- 🔭 An aspiring Game developer with an experience of over 1-2 years
+- 🌱 Currently working on some personal and freelance projects on Unity
 - 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1Y_RMB-Tc_6s38ciLOr0QdhQ7tcn42YOs/view?usp=sharing">Resume</a>
-- 📫 How to reach me: Contact part
+- 📫 How to reach me: Contact section
 - ⚡ Fun fact: I'm also a freelance Graphic Designer & Illustrator
-- 👾 Check out my games on : <a target="_blank" href="https://chetnaya.itch.io/">Chetnaya Kalyan</a>
+- 👾 Check out my games on : <a target="_blank" href="https://chetnaya.itch.io/">Itch</a>
 - 👯 Always happy to collaborate with other devs :))
  
  <!-- ________________________________________________________________________________________________________________________________________________
