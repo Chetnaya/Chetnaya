@@ -10,12 +10,12 @@
 
 - 🔭 An aspiring Game developer with an experience of over 1-2 years
 - 🌱 Currently working on some personal and freelance projects on Unity
-- 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1Y_RMB-Tc_6s38ciLOr0QdhQ7tcn42YOs/view?usp=sharing">Resume</a>
+- 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1SV0opHRKu1b1C7wdbLloxrIMjNfxUP5o/view?usp=sharing">Resume</a>
 - 📫 How to reach me: Contact section
 - ⚡ Fun fact: I'm also a freelance Graphic Designer & Illustrator
-- 👾 Check out my games on : <a target="_blank" href="https://chetnaya.itch.io/">Itch</a>
+- 👾 Check out my games on : <a target="_blank" href="https://chetnaya.itch.io/">Itch</a> and <a target="_blank" href="https://play.google.com/store/apps/details?id=com.Bubbles.ConfusedCube">Google play store</a>    
 - 👯 Always happy to collaborate with other devs :))
- 
+
  <!-- ________________________________________________________________________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________-->
@@ -25,7 +25,7 @@ ________________________________________________________________________________
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a>Confused Cube - *COMING SOON*</a>
+Current Project: <a target="_blank" href="https://play.google.com/store/apps/details?id=com.Bubbles.ConfusedCube">Confused Cube</a>
 <!--Current Project: <a href="https://github.com/Chetnaya/Eyes-Wide-Shut">Eyes Wide Shut.</a>-->
 </samp>
 </details>
