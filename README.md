@@ -10,7 +10,7 @@
 
 - 🔭 An aspiring Game developer with an experience of over 1-2 years
 - 🌱 Currently working on some personal and freelance projects on Unity
-- 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1SV0opHRKu1b1C7wdbLloxrIMjNfxUP5o/view?usp=sharing">Resume</a>
+- 💬 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/1fCsNuFF5miSn4WQ3__eMWJ6BW4NJ9WuD/view?usp=sharing">Resume</a>
 - 📫 How to reach me: Contact section
 - ⚡ Fun fact: I'm also a freelance Graphic Designer & Illustrator
 - 👾 Check out my games on : <a target="_blank" href="https://chetnaya.itch.io/">Itch</a> and <a target="_blank" href="https://play.google.com/store/apps/details?id=com.Bubbles.ConfusedCube">Google play store</a>    
@@ -51,4 +51,6 @@ Current Project: <a target="_blank" href="https://play.google.com/store/apps/det
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
  </div>
+
+
  
